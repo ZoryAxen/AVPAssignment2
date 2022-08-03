@@ -1,0 +1,32 @@
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.AssemblyReference.cache
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.GeneratedMSBuildEditorConfig.editorconfig
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.AssemblyInfoInputs.cache
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.AssemblyInfo.cs
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.CoreCompileInputs.cache
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.exe
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.deps.json
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.runtimeconfig.json
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.runtimeconfig.dev.json
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.dll
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\ref\SectionA.dll
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.pdb
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.dll
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\ref\SectionA.dll
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.pdb
+C:\PolyStuff\AVP\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.genruntimeconfig.cache
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.AssemblyReference.cache
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.AssemblyInfoInputs.cache
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.AssemblyInfo.cs
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.csproj.CoreCompileInputs.cache
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.dll
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\ref\SectionA.dll
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.pdb
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.exe
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.deps.json
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.runtimeconfig.json
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.runtimeconfig.dev.json
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.dll
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\ref\SectionA.dll
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\bin\Debug\net5.0\SectionA.pdb
+D:\Poly Related Stuff\AdvancedProgramming\Assignment2\ASN2_Student_Resource\SectionA\obj\Debug\net5.0\SectionA.genruntimeconfig.cache
