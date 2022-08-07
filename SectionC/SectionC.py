@@ -1,9 +1,6 @@
-def gethiretype(record):
-    return record[7]
-def getyear(record):
-    return int((record[3].split("/"))[2])
-def changesalary(record, change):
-    return int(record[9]) * change
+gethiretype = lambda x: x[7]
+getyear = lambda x: int((x[3].split("/"))[2])
+changesalary = lambda x, y: int(x[9]) * y
 
 file = open("HRMasterlistB.txt", "r")
 lines = file.readlines()
