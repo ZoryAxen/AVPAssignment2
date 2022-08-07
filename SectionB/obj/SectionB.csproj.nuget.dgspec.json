@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj": {}
+    "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionB\\SectionB.csproj": {}
   },
   "projects": {
-    "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
+    "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionA\\SectionA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+        "projectUniqueName": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionA\\SectionA.csproj",
         "projectName": "SectionA",
-        "projectPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+        "projectPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionA\\SectionA.csproj",
         "packagesPath": "C:\\Users\\YiShe\\.nuget\\packages\\",
-        "outputPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionA\\obj\\",
+        "outputPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YiShe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj": {
+    "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionB\\SectionB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
+        "projectUniqueName": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionB\\SectionB.csproj",
         "projectName": "SectionB",
-        "projectPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionB\\SectionB.csproj",
+        "projectPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionB\\SectionB.csproj",
         "packagesPath": "C:\\Users\\YiShe\\.nuget\\packages\\",
-        "outputPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionB\\obj\\",
+        "outputPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YiShe\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj": {
-                "projectPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj"
+              "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionA\\SectionA.csproj": {
+                "projectPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionA\\SectionA.csproj"
               }
             }
           }

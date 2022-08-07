@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+      "projectUniqueName": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionA\\SectionA.csproj",
       "projectName": "SectionA",
-      "projectPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionA\\SectionA.csproj",
+      "projectPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionA\\SectionA.csproj",
       "packagesPath": "C:\\Users\\YiShe\\.nuget\\packages\\",
-      "outputPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\ASN2_Student_Resource\\SectionA\\obj\\",
+      "outputPath": "D:\\Poly Related Stuff\\AdvancedProgramming\\Assignment2\\AVPAssignment2\\SectionA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\YiShe\\AppData\\Roaming\\NuGet\\NuGet.Config"
