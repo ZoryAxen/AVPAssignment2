@@ -1,13 +1,20 @@
+def gethiretype(record):
+    return record[7]
+def getyear(record):
+    return int((record[3].split("/"))[2])
+def changesalary(record, change):
+    return int(record[9]) * change
+
 file = open("HRMasterlistB.txt", "r")
+lines = file.readlines()
 totalsalary = 0
-for line in file.readlines():
+for line in lines:
     record = line.split("|")
-    hiretype = record[7]
-    date = record[3].split("/")
-    year = int(date[2])
+    hiretype = gethiretype(record)
+    year = getyear(record)
     if year > 1995 and hiretype =="FullTime":
-        totalsalary += int(record[9]) * 0.85
+        totalsalary += changesalary(record, 0.85)
     else:
-        totalsalary += int(record[9])
+        totalsalary += changesalary(record, 1)
 file.close()
 print("Total computed salary: ${:.2f}".format(totalsalary))
