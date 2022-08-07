@@ -2,7 +2,7 @@ file = open("HRMasterlistB.txt", "r")
 totalsalary = 0
 for line in file.readlines():
     record = line.split("|")
-    hiretype = record[9]
+    hiretype = record[7]
     date = record[3].split("/")
     year = int(date[2])
     if year > 1995 and hiretype =="FullTime":
