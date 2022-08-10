@@ -9,9 +9,9 @@ namespace SectionB
 {
     public delegate void Delegate(string i);
     public enum HireType {
-        FullTime,
-        PartTime,
-        Hourly
+        FullTime = 100,
+        PartTime  = 50,
+        Hourly = 25
     }
     class Program
     {
@@ -23,13 +23,13 @@ namespace SectionB
                 var record = line.Split('|');
                 int salary = 0;
                 if (record[7] == "FullTime"){
-                    salary = Int32.Parse(record[8]) * 1;
+                    salary = Int32.Parse(record[8]) * (int)HireType.FullTime / 100;
                 }
                 if (record[7] == "PartTime"){
-                    salary = Int32.Parse(record[8]) / 2;
+                    salary = Int32.Parse(record[8]) * (int)HireType.PartTime / 100;
                 }
                 if (record[7] == "Hourly"){
-                    salary = Int32.Parse(record[8]) / 4;
+                    salary = Int32.Parse(record[8]) * (int)HireType.Hourly / 100;
                 }
                 totalsalary += salary;
                 totalemployees += 1;
